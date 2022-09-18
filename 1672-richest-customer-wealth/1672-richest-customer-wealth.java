@@ -8,7 +8,12 @@ class Solution {
                 wealth[i] += accounts[i][j];
             }
         }
-        
-        return Arrays.stream(wealth).max().getAsInt();
+        int max = wealth[0];
+        for (int i = 1; i < wealth.length; i++) {
+            if (wealth[i] > max) {
+                max = wealth[i];
+            }
+        }
+        return max;
     }
 }
