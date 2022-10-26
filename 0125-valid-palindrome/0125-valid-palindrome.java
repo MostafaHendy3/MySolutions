@@ -3,8 +3,6 @@ class Solution {
         s=s.toLowerCase();
         s=s.replaceAll("\\p{Punct}","");
         s=s.replaceAll("\\p{Space}","");
-        if(s.length()==1)return true;
-
         int i = 0;
         int j = s.length()-1;
         while(i<s.length()){
