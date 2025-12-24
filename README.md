@@ -16,4 +16,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/MostafaHendy3/MySolutions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/MostafaHendy3/MySolutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/MostafaHendy3/MySolutions/tree/master/1757-recyclable-and-low-fat-products) |
+## Array
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/MostafaHendy3/MySolutions/tree/master/0704-binary-search) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/MostafaHendy3/MySolutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
