@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/MostafaHendy3/MySolutions/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/MostafaHendy3/MySolutions/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
@@ -46,9 +47,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/MostafaHendy3/MySolutions/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/MostafaHendy3/MySolutions/tree/master/0231-power-of-two) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/MostafaHendy3/MySolutions/tree/master/0056-merge-intervals) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/MostafaHendy3/MySolutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
