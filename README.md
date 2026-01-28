@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/MostafaHendy3/MySolutions/tree/master/0035-search-insert-position) |
+| [0056-merge-intervals](https://github.com/MostafaHendy3/MySolutions/tree/master/0056-merge-intervals) |
 | [0704-binary-search](https://github.com/MostafaHendy3/MySolutions/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -46,4 +47,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/MostafaHendy3/MySolutions/tree/master/0231-power-of-two) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/MostafaHendy3/MySolutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
