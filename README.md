@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/MostafaHendy3/MySolutions/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/MostafaHendy3/MySolutions/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/MostafaHendy3/MySolutions/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/MostafaHendy3/MySolutions/tree/master/0074-search-a-2d-matrix) |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/MostafaHendy3/MySolutions/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/MostafaHendy3/MySolutions/tree/master/0344-reverse-string) |
 ## Math
 |  |
@@ -65,4 +67,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/MostafaHendy3/MySolutions/tree/master/0074-search-a-2d-matrix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/MostafaHendy3/MySolutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
