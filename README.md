@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/MostafaHendy3/MySolutions/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/MostafaHendy3/MySolutions/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/MostafaHendy3/MySolutions/tree/master/0074-search-a-2d-matrix) |
+| [0088-merge-sorted-array](https://github.com/MostafaHendy3/MySolutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MostafaHendy3/MySolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/MostafaHendy3/MySolutions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/MostafaHendy3/MySolutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MostafaHendy3/MySolutions/tree/master/0011-container-with-most-water) |
+| [0088-merge-sorted-array](https://github.com/MostafaHendy3/MySolutions/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/MostafaHendy3/MySolutions/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -66,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/MostafaHendy3/MySolutions/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/MostafaHendy3/MySolutions/tree/master/0088-merge-sorted-array) |
 ## Linked List
 |  |
 | ------- |
