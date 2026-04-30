@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/MostafaHendy3/MySolutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MostafaHendy3/MySolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/MostafaHendy3/MySolutions/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/MostafaHendy3/MySolutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/MostafaHendy3/MySolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/MostafaHendy3/MySolutions/tree/master/0704-binary-search) |
 ## Binary Search
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/MostafaHendy3/MySolutions/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MostafaHendy3/MySolutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/MostafaHendy3/MySolutions/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/MostafaHendy3/MySolutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/MostafaHendy3/MySolutions/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -60,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/MostafaHendy3/MySolutions/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/MostafaHendy3/MySolutions/tree/master/0012-integer-to-roman) |
+| [0189-rotate-array](https://github.com/MostafaHendy3/MySolutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/MostafaHendy3/MySolutions/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
