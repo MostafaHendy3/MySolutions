@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/MostafaHendy3/MySolutions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/MostafaHendy3/MySolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/MostafaHendy3/MySolutions/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/MostafaHendy3/MySolutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/MostafaHendy3/MySolutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/MostafaHendy3/MySolutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/MostafaHendy3/MySolutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/MostafaHendy3/MySolutions/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/MostafaHendy3/MySolutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/MostafaHendy3/MySolutions/tree/master/0231-power-of-two) |
+| [0367-valid-perfect-square](https://github.com/MostafaHendy3/MySolutions/tree/master/0367-valid-perfect-square) |
 ## Bit Manipulation
 |  |
 | ------- |
