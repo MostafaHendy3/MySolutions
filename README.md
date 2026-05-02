@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/MostafaHendy3/MySolutions/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/MostafaHendy3/MySolutions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/MostafaHendy3/MySolutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0374-guess-number-higher-or-lower](https://github.com/MostafaHendy3/MySolutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/MostafaHendy3/MySolutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/MostafaHendy3/MySolutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MostafaHendy3/MySolutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -117,4 +118,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MostafaHendy3/MySolutions/tree/master/0011-container-with-most-water) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/MostafaHendy3/MySolutions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
