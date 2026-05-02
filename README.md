@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/MostafaHendy3/MySolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/MostafaHendy3/MySolutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/MostafaHendy3/MySolutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MostafaHendy3/MySolutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/MostafaHendy3/MySolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/MostafaHendy3/MySolutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/MostafaHendy3/MySolutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MostafaHendy3/MySolutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -88,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/MostafaHendy3/MySolutions/tree/master/0074-search-a-2d-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MostafaHendy3/MySolutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Trie
 |  |
 | ------- |
