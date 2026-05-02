@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/MostafaHendy3/MySolutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/MostafaHendy3/MySolutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/MostafaHendy3/MySolutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MostafaHendy3/MySolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/MostafaHendy3/MySolutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/MostafaHendy3/MySolutions/tree/master/0012-integer-to-roman) |
 ## Sliding Window
 |  |
