@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/MostafaHendy3/MySolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/MostafaHendy3/MySolutions/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/MostafaHendy3/MySolutions/tree/master/0014-longest-common-prefix) |
+| [0058-length-of-last-word](https://github.com/MostafaHendy3/MySolutions/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/MostafaHendy3/MySolutions/tree/master/0344-reverse-string) |
 ## Math
 |  |
