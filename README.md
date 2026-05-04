@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/MostafaHendy3/MySolutions/tree/master/0176-second-highest-salary) |
 | [0584-find-customer-referee](https://github.com/MostafaHendy3/MySolutions/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/MostafaHendy3/MySolutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/MostafaHendy3/MySolutions/tree/master/0595-big-countries) |
