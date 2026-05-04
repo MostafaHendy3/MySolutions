@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MostafaHendy3/MySolutions/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/MostafaHendy3/MySolutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/MostafaHendy3/MySolutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/MostafaHendy3/MySolutions/tree/master/0231-power-of-two) |
 ## Sorting
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MostafaHendy3/MySolutions/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/MostafaHendy3/MySolutions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/MostafaHendy3/MySolutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/MostafaHendy3/MySolutions/tree/master/0206-reverse-linked-list) |
 ## Matrix
