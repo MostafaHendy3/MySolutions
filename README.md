@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/MostafaHendy3/MySolutions/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/MostafaHendy3/MySolutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/MostafaHendy3/MySolutions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/MostafaHendy3/MySolutions/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/MostafaHendy3/MySolutions/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0058-length-of-last-word](https://github.com/MostafaHendy3/MySolutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/MostafaHendy3/MySolutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/MostafaHendy3/MySolutions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/MostafaHendy3/MySolutions/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/MostafaHendy3/MySolutions/tree/master/1768-merge-strings-alternately) |
 ## Math
 |  |
@@ -144,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MostafaHendy3/MySolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/MostafaHendy3/MySolutions/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
