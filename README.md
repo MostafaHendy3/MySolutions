@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0058-length-of-last-word](https://github.com/MostafaHendy3/MySolutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/MostafaHendy3/MySolutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/MostafaHendy3/MySolutions/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/MostafaHendy3/MySolutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/MostafaHendy3/MySolutions/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/MostafaHendy3/MySolutions/tree/master/1768-merge-strings-alternately) |
 ## Math
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/MostafaHendy3/MySolutions/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/MostafaHendy3/MySolutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/MostafaHendy3/MySolutions/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/MostafaHendy3/MySolutions/tree/master/0383-ransom-note) |
 ## Sliding Window
 |  |
 | ------- |
@@ -167,4 +169,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MostafaHendy3/MySolutions/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/MostafaHendy3/MySolutions/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
