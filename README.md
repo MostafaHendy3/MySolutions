@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/MostafaHendy3/MySolutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/MostafaHendy3/MySolutions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/MostafaHendy3/MySolutions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/MostafaHendy3/MySolutions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/MostafaHendy3/MySolutions/tree/master/0206-reverse-linked-list) |
 ## Matrix
 |  |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/MostafaHendy3/MySolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/MostafaHendy3/MySolutions/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/MostafaHendy3/MySolutions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/MostafaHendy3/MySolutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/MostafaHendy3/MySolutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/MostafaHendy3/MySolutions/tree/master/0383-ransom-note) |
 ## Sliding Window
@@ -170,4 +172,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/MostafaHendy3/MySolutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/MostafaHendy3/MySolutions/tree/master/0383-ransom-note) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/MostafaHendy3/MySolutions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/MostafaHendy3/MySolutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
